@@ -5,7 +5,7 @@ This is a simple game recommender system built using Python and frontend is buil
 ## Link to the project https://game-recommender.onrender.com
 
 ## Snapshot of project
-![9af0bad4-fd03-437a-8d5a-da4d0b63ed8a](https://github.com/MZKhan18/Game-Recommender-System/assets/83308074/54c9499a-4689-4a98-b500-ce1951855be1)
+![Screenshot 2023-08-02 183826](https://github.com/MZKhan18/Game-Recommender-System/assets/83308074/3a6c0779-fcf7-4e8e-917f-02b2b32e13ea)
 
 
 ## How it works
