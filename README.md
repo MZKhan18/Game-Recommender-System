@@ -1,8 +1,12 @@
 # Game Recommender System
 
-This is a simple game recommender system built using Streamlit, a popular Python library for creating web applications with interactive visualizations. The recommender system uses collaborative filtering to suggest similar games based on user-selected games.
+This is a simple game recommender system built using Python and frontend is built using Streamlit, a popular Python library for creating web applications with interactive visualizations. The recommender system uses collaborative filtering to suggest similar games based on user-selected games.
 
 ## Link to the project https://game-recommender.onrender.com
+
+## Snapshot of project
+![9af0bad4-fd03-437a-8d5a-da4d0b63ed8a](https://github.com/MZKhan18/Game-Recommender-System/assets/83308074/54c9499a-4689-4a98-b500-ce1951855be1)
+
 
 ## How it works
 
